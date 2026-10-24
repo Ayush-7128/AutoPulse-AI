@@ -1,0 +1,38 @@
+{
+    "serpentine_belt_slip": {
+        "oem_part_no": "17521M79F00",
+        "part_name": "Belt, Water Pump & Gen",
+        "mrp": 395,
+        "safe_km": 140
+    },
+    "engine_knock_misfire": {
+        "oem_part_no": "33400M68K20",
+        "part_name": "Ignition Coil Assy",
+        "mrp": 1890,
+        "safe_km": 25
+    },
+    "worn_brakes_grind": {
+        "oem_part_no": "55810M75J20",
+        "part_name": "Front Disc Brake Pad Set",
+        "mrp": 1620,
+        "safe_km": 20
+    },
+    "weak_battery_crank": {
+        "oem_part_no": "33610M83K10",
+        "part_name": "12V 35Ah OEM Battery",
+        "mrp": 3800,
+        "safe_km": 60
+    },
+    "bad_ignition_starter": {
+        "oem_part_no": "31100M79G00",
+        "part_name": "Motor Assy, Starting",
+        "mrp": 4250,
+        "safe_km": 15
+    },
+    "low_oil_valve_tap": {
+        "oem_part_no": "16510M68K00",
+        "part_name": "0W-20 Synthetic Oil",
+        "mrp": 1450,
+        "safe_km": 45
+    }
+}
